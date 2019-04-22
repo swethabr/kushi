@@ -1,0 +1,49 @@
+{
+  "appid": [
+    {
+      "name": "kushi-appid-1555926951478",
+      "credentials": {
+        "apikey": "••••••••••••••••••••••••••••••••••••••••••••",
+        "appidServiceEndpoint": "https://us-south.appid.cloud.ibm.com",
+        "clientId": "23eeb2a4-5eca-46aa-a542-1ecd8744f561",
+        "discoveryEndpoint": "https://us-south.appid.cloud.ibm.com/oauth/v4/97a70730-e9b8-4dc3-812f-ad7c864b218d/.well-known/openid-configuration",
+        "managementUrl": "https://us-south.appid.cloud.ibm.com/management/v4/97a70730-e9b8-4dc3-812f-ad7c864b218d",
+        "oauthServerUrl": "https://us-south.appid.cloud.ibm.com/oauth/v4/97a70730-e9b8-4dc3-812f-ad7c864b218d",
+        "profilesUrl": "https://us-south.appid.cloud.ibm.com",
+        "secret": "••••••••••••••••••••••••••••••••••••••••••••••••",
+        "tenantId": "97a70730-e9b8-4dc3-812f-ad7c864b218d",
+        "version": 4
+      }
+    }
+  ],
+  "cloudant": [
+    {
+      "name": "kushi-cloudant-1555926329072",
+      "credentials": {
+        "apikey": "••••••••••••••••••••••••••••••••••••••••••••",
+        "host": "cefae914-8474-405e-999e-81917e35686f-bluemix.cloudantnosqldb.appdomain.cloud",
+        "password": "••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••",
+        "port": 443,
+        "url": "https://cefae914-8474-405e-999e-81917e35686f-bluemix:3f977ae731e025e55e611ca8559df3cb7534f18a3c940675f64a6709a9d2a8df@cefae914-8474-405e-999e-81917e35686f-bluemix.cloudantnosqldb.appdomain.cloud",
+        "username": "••••••••••••••••••••••••••••••••••••••••••••"
+      }
+    }
+  ],
+  "apacheSpark": [],
+  "iotPlatform": [
+    {
+      "name": "kushi-iotplatform-1555925941574",
+      "credentials": {
+        "iotCredentialsIdentifier": "a2g6k39sl6r5",
+        "mqtt_host": "wywy26.messaging.internetofthings.ibmcloud.com",
+        "mqtt_u_port": 1883,
+        "mqtt_s_port": 8883,
+        "http_host": "wywy26.internetofthings.ibmcloud.com",
+        "org": "wywy26",
+        "apiKey": "•••••••••••••••••••",
+        "apiToken": "f+7?kT3obwV32_A00s",
+        "error": null
+      }
+    }
+  ]
+}
